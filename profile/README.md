@@ -4,5 +4,4 @@ See https://www.fondalabs.at for more informations about our company.
 
 ## Offene Stellen 
 
-Technischer Projektmanager https://www.fonda.at/job/technisches-projektmanagement/
-Full Stack Developer:in (PHP) https://www.fonda.at/job/full-stack-developer/
+Head of Technical Project Management [https://www.fonda.at/job/technisches-projektmanagement/](https://www.fonda.at/job/head-of-technical-project-management/)
